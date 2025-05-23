@@ -1,10 +1,10 @@
 {
   "Suws-7f_6Z1ChpfcnxX2M": {
-    "title": "Pick a Language",
-    "description": "When developing for Android, one crucial step is picking a programming language to use. There are multiple languages you can choose from, but the three most popular ones are Java, Kotlin, and C++.\n\nJava is the original language used for Android development and is widely used, making it a good choice for beginners due to the wealth of resources and developer communities. Kotlin is a newer option that is fully supported by Google and Android Studio, and addressing many of the drawbacks of Java which makes it a popular choice for many developers.\n\nVisit the following resources to learn more:",
+    "title": "Elige un Lenguaje",
+    "description": "Al desarrollar para Android, un paso crucial es elegir un lenguaje de programación. Hay varios lenguajes entre los que puedes elegir, pero los tres más populares son Java, Kotlin y C++.\n\nJava es el lenguaje original utilizado para el desarrollo de Android y es ampliamente utilizado, lo que lo convierte en una buena opción para principiantes debido a la gran cantidad de recursos y comunidades de desarrolladores. Kotlin es una opción más nueva que es totalmente compatible con Google y Android Studio, y soluciona muchas de las desventajas de Java, lo que la convierte en una opción popular para muchos desarrolladores.\n\nVisita los siguientes recursos para obtener más información:",
     "links": [
       {
-        "title": "Pick a Language",
+        "title": "Elige un Lenguaje",
         "url": "https://developer.android.com/studio/write/java8-support",
         "type": "article"
       },
@@ -17,7 +17,7 @@
   },
   "qIzUv8-GgQnkqChEdgD50": {
     "title": "Kotlin",
-    "description": "`Kotlin` is a cross-platform, statically typed general-purpose programming language with type inference. Developed by JetBrains, the makers of the world’s leading IDEs, Kotlin has a syntax, which is more expressive and concise. This allows for more readable and maintainable code. It is fully interoperable with Java and comes with no limitations. It can be used almost everywhere Java is used today, for server-side development, Android apps, and much more. Kotlin introduces several improvements for programmers over Java, which makes it a preferred choice for many developers. With more concise code base and modern programming concept support - it's certainly a future of Android app development.\n\nVisit the following resources to learn more:",
+    "description": "`Kotlin` es un lenguaje de programación de propósito general, multiplataforma y de tipado estático con inferencia de tipos. Desarrollado por JetBrains, los creadores de los IDE líderes en el mundo, Kotlin tiene una sintaxis más expresiva y concisa. Esto permite un código más legible y fácil de mantener. Es totalmente interoperable con Java y no tiene limitaciones. Se puede usar en casi cualquier lugar donde se usa Java hoy en día, para desarrollo del lado del servidor, aplicaciones de Android y mucho más. Kotlin introduce varias mejoras para los programadores sobre Java, lo que lo convierte en la opción preferida de muchos desarrolladores. Con una base de código más concisa y compatibilidad con conceptos de programación modernos, es sin duda el futuro del desarrollo de aplicaciones de Android.\n\nVisita los siguientes recursos para obtener más información:",
     "links": [
       {
         "title": "Kotlin",
@@ -25,17 +25,17 @@
         "type": "article"
       },
       {
-        "title": "Kotlin Documentation",
+        "title": "Documentación de Kotlin",
         "url": "https://kotlinlang.org/docs/home.html",
         "type": "article"
       },
       {
-        "title": "Learn Kotlin - w3schools",
+        "title": "Aprende Kotlin - w3schools",
         "url": "https://www.w3schools.com/kotlin/",
         "type": "article"
       },
       {
-        "title": "Learn Kotlin Programming for Beginners - Free Code Camp",
+        "title": "Aprende Programación en Kotlin para Principiantes - Free Code Camp",
         "url": "https://youtu.be/EExSSotojVI?si=4VPW8ZHa2UMX0HH1",
         "type": "video"
       }
@@ -43,10 +43,10 @@
   },
   "RBABbkzD_uNFwEO-hssZO": {
     "title": "Java",
-    "description": "Java is a popular programming language used for Android development due to its robustness and ease of use. Its object-oriented structure allows developers to create modular programs and reusable code. The language was built with the philosophy of \"write once, run anywhere\" (WORA), meaning compiled Java code can run on all platforms without the need for recompilation. Android’s API and core libraries are primarily written in Java, therefore understanding Java is fundamental in creating diverse and powerful Android apps.\n\nVisit the following resources to learn more:",
+    "description": "Java es un lenguaje de programación popular utilizado para el desarrollo de Android debido a su robustez y facilidad de uso. Su estructura orientada a objetos permite a los desarrolladores crear programas modulares y código reutilizable. El lenguaje se construyó con la filosofía de \"escribir una vez, ejecutar en cualquier lugar\" (WORA), lo que significa que el código Java compilado puede ejecutarse en todas las plataformas sin necesidad de recompilación. La API y las bibliotecas principales de Android están escritas principalmente en Java, por lo tanto, comprender Java es fundamental para crear aplicaciones de Android diversas y potentes.\n\nVisita los siguientes recursos para obtener más información:",
     "links": [
       {
-        "title": "Java Roadmap",
+        "title": "Roadmap de Java",
         "url": "https://roadmap.sh/java",
         "type": "article"
       },
@@ -56,7 +56,7 @@
         "type": "article"
       },
       {
-        "title": "Java Documentation",
+        "title": "Documentación de Java",
         "url": "https://docs.oracle.com/en/java/javase/11/docs/api/",
         "type": "article"
       }

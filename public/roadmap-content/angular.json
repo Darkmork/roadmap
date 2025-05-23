@@ -1,72 +1,72 @@
 {
   "KDd40JOAvZ8O1mfhTYB3K": {
-    "title": "Introduction to Angular",
-    "description": "Angular is a popular open-source front-end web application framework developed by Google. It is written in TypeScript and allows developers to build dynamic, single-page web applications with ease. Angular provides a comprehensive set of features for creating interactive and responsive user interfaces, making it a powerful tool for modern web development.\n\nOne of the key features of Angular is its use of components, which are reusable building blocks for creating web applications. Components encapsulate the HTML, CSS, and TypeScript code needed to define a specific part of a web page, making it easier to manage and maintain complex applications. Angular also includes a powerful dependency injection system, which helps manage the dependencies between different parts of an application and promotes code reusability. Additionally, Angular provides tools for routing, form handling, and state management, making it a versatile framework for building a wide range of web applications.\n\nLearn more from the following resources:",
+    "title": "Introducción a Angular",
+    "description": "Angular es un popular framework de aplicaciones web front-end de código abierto desarrollado por Google. Está escrito en TypeScript y permite a los desarrolladores crear aplicaciones web dinámicas de una sola página con facilidad. Angular proporciona un conjunto completo de características para crear interfaces de usuario interactivas y receptivas, lo que lo convierte en una herramienta poderosa para el desarrollo web moderno.\n\nUna de las características clave de Angular es el uso de componentes, que son bloques de construcción reutilizables para crear aplicaciones web. Los componentes encapsulan el código HTML, CSS y TypeScript necesario para definir una parte específica de una página web, lo que facilita la gestión y el mantenimiento de aplicaciones complejas. Angular también incluye un potente sistema de inyección de dependencias, que ayuda a gestionar las dependencias entre diferentes partes de una aplicación y promueve la reutilización del código. Además, Angular proporciona herramientas para el enrutamiento, el manejo de formularios y la gestión del estado, lo que lo convierte en un framework versátil para crear una amplia gama de aplicaciones web.\n\nObtenga más información de los siguientes recursos:",
     "links": [
       {
-        "title": " Angular website",
+        "title": "Sitio web de Angular",
         "url": "https://angular.dev/",
         "type": "article"
       }
     ]
   },
   "DE3cMpeRYuUPw2ADtfS-3": {
-    "title": "Angular Architecture",
-    "description": "Angular follows a modular architecture pattern, dividing the application into distinct modules, components, services, and other elements, which enhances code organization and maintainability. The key building blocks include modules, which are containers grouping related components, services, directives, and other elements to ensure proper encapsulation and reusability. Components are the building blocks of Angular applications, representing parts of the user interface with associated logic, consisting of templates, styles, and a class defining behavior. Services encapsulate reusable business logic, data manipulation, and API communication, enabling data and functionality sharing across components. Directives are HTML attributes or elements that extend HTML functionality, allowing reusable behaviors across the application. Lastly, pipes transform data before displaying it in templates, providing convenient ways to format, filter, and sort data.\n\nVisit the following resources to learn more:",
+    "title": "Arquitectura de Angular",
+    "description": "Angular sigue un patrón de arquitectura modular, dividiendo la aplicación en módulos, componentes, servicios y otros elementos distintos, lo que mejora la organización y el mantenimiento del código. Los bloques de construcción clave incluyen módulos, que son contenedores que agrupan componentes, servicios, directivas y otros elementos relacionados para garantizar una encapsulación y reutilización adecuadas. Los componentes son los bloques de construcción de las aplicaciones de Angular, que representan partes de la interfaz de usuario con lógica asociada, y constan de plantillas, estilos y una clase que define el comportamiento. Los servicios encapsulan la lógica de negocio reutilizable, la manipulación de datos y la comunicación API, lo que permite compartir datos y funcionalidades entre componentes. Las directivas son atributos o elementos HTML que amplían la funcionalidad HTML, lo que permite comportamientos reutilizables en toda la aplicación. Por último, los pipes transforman los datos antes de mostrarlos en las plantillas, proporcionando formas convenientes de formatear, filtrar y ordenar los datos.\n\nVisita los siguientes recursos para obtener más información:",
     "links": [
       {
-        "title": "Angular coding style guide",
+        "title": "Guía de estilo de codificación de Angular",
         "url": "https://angular.dev/style-guide",
         "type": "article"
       },
       {
-        "title": "The Ultimate Guide to Angular Architecture: Best Practices for efficient coding with Angular Framework",
+        "title": "La Guía Definitiva de la Arquitectura Angular: Mejores Prácticas para una codificación eficiente con el Framework Angular",
         "url": "https://angulardive.com/blog/the-ultimate-guide-to-angular-architecture-best-practices-for-efficient-coding-with-angular-framework/",
         "type": "article"
       },
       {
-        "title": "Modern Architectures with Angular Part 1: Strategic design with Sheriff and Standalone Components",
+        "title": "Arquitecturas Modernas con Angular Parte 1: Diseño estratégico con Sheriff y Componentes Independientes",
         "url": "https://www.angulararchitects.io/en/blog/modern-architectures-with-angular-part-1-strategic-design-with-sheriff-and-standalone-components/",
         "type": "article"
       },
       {
-        "title": "Optimizing the architecture of large web applications with Angular",
+        "title": "Optimizando la arquitectura de grandes aplicaciones web con Angular",
         "url": "https://albertobasalo.medium.com/optimizing-the-architecture-of-large-web-applications-with-angular-79d03b01a92b",
         "type": "article"
       },
       {
-        "title": "Angular Architecture Concepts and Patterns",
+        "title": "Conceptos y Patrones de Arquitectura Angular",
         "url": "https://www.bigscal.com/blogs/frontend/angular-architecture-concepts-and-patterns/",
         "type": "article"
       },
       {
-        "title": "Top 10 Angular Architecture Mistakes",
+        "title": "Los 10 Principales Errores de Arquitectura Angular",
         "url": "https://angularexperts.io/blog/top-10-angular-architecture-mistakes",
         "type": "article"
       },
       {
-        "title": "Architecting Angular: A Guide to effective project structure",
+        "title": "Arquitectando Angular: Una Guía para una estructura de proyecto efectiva",
         "url": "https://medium.com/@nile.bits/architecting-angular-a-guide-to-effective-project-structure-9756bae92262",
         "type": "article"
       }
     ]
   },
   "EbFRcy4s6yzzIApBqU77Y": {
-    "title": "Setting up a New Project",
-    "description": "Visit the following resources to learn more:",
+    "title": "Configuración de un Nuevo Proyecto",
+    "description": "Visita los siguientes recursos para obtener más información:",
     "links": [
       {
-        "title": "Installation",
+        "title": "Instalación",
         "url": "https://angular.dev/installation",
         "type": "article"
       },
       {
-        "title": "Setting up the local environment and workspace",
+        "title": "Configuración del entorno local y el espacio de trabajo",
         "url": "https://angular.dev/tools/cli/setup-local",
         "type": "article"
       },
       {
-        "title": "Build your first Angular app",
+        "title": "Construye tu primera aplicación Angular",
         "url": "https://angular.dev/tutorials/first-app",
         "type": "article"
       }

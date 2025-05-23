@@ -1,25 +1,25 @@
 {
   "NEnna_8DstfYH4T9qrP3-": {
-    "title": "General Development Skills",
-    "description": "There are several skills that are generally considered to be important for working with .NET and C#:\n\n*   Object-oriented programming: Understanding the concepts of classes, objects, inheritance, and polymorphism is essential for working with C# and the .NET Framework.\n    \n*   C# language: A strong understanding of the C# language, including its syntax, keywords, and built-in classes and types, is necessary for writing efficient and maintainable code.\n    \n*   .NET Framework: Familiarity with the .NET Framework, including the Common Language Runtime (CLR) and the Base Class Library (BCL), is important for understanding how C# code is executed and for utilizing the framework's many built-in features.\n    \n*   Web & Software development: Knowledge of web development technologies such as HTML, CSS, JavaScript, and [ASP.NET](http://ASP.NET) is important for creating web applications using C# and the .NET Framework and knowledge of software development methodologies such as Agile, Scrum, or Waterfall is also useful.\n    \n*   Database: Familiarity with database concepts and technologies, such as SQL and [ADO.NET](http://ADO.NET), is important for working with data in C# applications.\n    \n*   Cloud computing: Familiarity with cloud computing concepts and technologies, such as Azure, is becoming increasingly important for deploying and scaling C# applications.\n    \n*   DevOps: Understanding of DevOps concepts and practices, such as continuous integration and continuous deployment, is necessary for automating and streamlining the software development process.\n    \n\nFor more information, visit the following links:",
+    "title": "Habilidades Generales de Desarrollo",
+    "description": "Hay varias habilidades que generalmente se consideran importantes para trabajar con .NET y C#:\n\n*   Programación orientada a objetos: Comprender los conceptos de clases, objetos, herencia y polimorfismo es esencial para trabajar con C# y .NET Framework.\n    \n*   Lenguaje C#: Un sólido conocimiento del lenguaje C#, incluida su sintaxis, palabras clave y clases y tipos integrados, es necesario para escribir código eficiente y mantenible.\n    \n*   .NET Framework: La familiaridad con .NET Framework, incluido Common Language Runtime (CLR) y la Biblioteca de clases base (BCL), es importante para comprender cómo se ejecuta el código C# y para utilizar las numerosas funciones integradas del framework.\n    \n*   Desarrollo web y de software: El conocimiento de tecnologías de desarrollo web como HTML, CSS, JavaScript y [ASP.NET](http://ASP.NET) es importante para crear aplicaciones web con C# y .NET Framework, y el conocimiento de metodologías de desarrollo de software como Agile, Scrum o Waterfall también es útil.\n    \n*   Base de datos: La familiaridad con los conceptos y tecnologías de bases de datos, como SQL y [ADO.NET](http://ADO.NET), es importante para trabajar con datos en aplicaciones C#.\n    \n*   Computación en la nube: La familiaridad con los conceptos y tecnologías de computación en la nube, como Azure, es cada vez más importante para implementar y escalar aplicaciones C#.\n    \n*   DevOps: La comprensión de los conceptos y prácticas de DevOps, como la integración continua y la implementación continua, es necesaria para automatizar y optimizar el proceso de desarrollo de software.\n    \n\nPara obtener más información, visite los siguientes enlaces:",
     "links": [
       {
-        "title": "Explore top posts about Career",
+        "title": "Explora las principales publicaciones sobre Carrera",
         "url": "https://app.daily.dev/tags/career?ref=roadmapsh",
         "type": "article"
       },
       {
-        "title": "Asp.net - Complete Tutorial",
+        "title": "Asp.net - Tutorial Completo",
         "url": "https://www.youtube.com/watch?v=kdPtNMb8tPw",
         "type": "video"
       },
       {
-        "title": "Learn Cloud Computing",
+        "title": "Aprende Computación en la Nube",
         "url": "https://www.youtube.com/watch?v=eWwK2FKWp0g",
         "type": "video"
       },
       {
-        "title": "DevOps Course for Beginners",
+        "title": "Curso de DevOps para Principiantes",
         "url": "https://www.youtube.com/watch?v=hQcFE0RD0cQ",
         "type": "video"
       }
@@ -27,30 +27,30 @@
   },
   "fxANnSiTb2VzA9u-YeBL1": {
     "title": "C#",
-    "description": "C# is a modern coding language that was developed by Microsoft that focuses on applying the coding style to C++ and making it so that way it's more condensed and simple. It's similar to Java by both being static, strong, and manifestive languages. Both use the System's prebuilt class to do certain features like printing output to the screen, etc.C#, like Java, also contains a garbage collection, which removes lower-level maintenance code from the programmer.\n\nVisit the following resources to learn more:",
+    "description": "C# es un lenguaje de codificación moderno desarrollado por Microsoft que se centra en aplicar el estilo de codificación a C++ y hacerlo más condensado y simple. Es similar a Java en que ambos son lenguajes estáticos, fuertes y manifestantes. Ambos usan la clase preconstruida del sistema para realizar ciertas funciones como imprimir salida en la pantalla, etc. C#, como Java, también contiene una recolección de basura, que elimina el código de mantenimiento de bajo nivel del programador.\n\nVisita los siguientes recursos para obtener más información:",
     "links": [
       {
-        "title": "C# official website?",
+        "title": "¿Sitio web oficial de C#?",
         "url": "https://learn.microsoft.com/en-us/dotnet/csharp//",
         "type": "article"
       },
       {
-        "title": "The Beginners Guide to C#",
+        "title": "La Guía para Principiantes de C#",
         "url": "https://www.w3schools.com/CS/index.php",
         "type": "article"
       },
       {
-        "title": "C# Tutorial",
+        "title": "Tutorial de C#",
         "url": "https://www.w3schools.com/cs/index.php",
         "type": "article"
       },
       {
-        "title": "Explore top posts about C#",
+        "title": "Explora las principales publicaciones sobre C#",
         "url": "https://app.daily.dev/tags/csharp?ref=roadmapsh",
         "type": "article"
       },
       {
-        "title": "C# Full Course - Learn C# 10 and .NET 6 in 7 hours",
+        "title": "Curso Completo de C# - Aprende C# 10 y .NET 6 en 7 horas",
         "url": "https://www.youtube.com/watch?v=q_F4PyW8GTg",
         "type": "video"
       }
@@ -58,20 +58,20 @@
   },
   "3GGvuxdfuDwLpNX_gtjCK": {
     "title": ".NET",
-    "description": ".NET (pronounced \"dot net\") is a software framework developed by Microsoft that can be used to create a wide range of applications, including Windows desktop and web applications, mobile apps, and gaming. The .NET Framework provides a large library of pre-built functionality, including collections, file input/output, and networking, that can be used by .NET applications. It also includes a Common Language Runtime (CLR) which manages the execution of code, providing features such as memory management, security, and exception handling.\n\nFor more information, visit the following link:",
+    "description": ".NET (pronunciado \"dot net\") es un marco de software desarrollado por Microsoft que se puede utilizar para crear una amplia gama de aplicaciones, incluidas aplicaciones de escritorio y web de Windows, aplicaciones móviles y juegos. .NET Framework proporciona una gran biblioteca de funcionalidades preconstruidas, que incluyen colecciones, entrada/salida de archivos y redes, que pueden ser utilizadas por aplicaciones .NET. También incluye un Common Language Runtime (CLR) que gestiona la ejecución del código, proporcionando características como la gestión de memoria, la seguridad y el manejo de excepciones.\n\nPara obtener más información, visite el siguiente enlace:",
     "links": [
       {
-        "title": "What is .NET?",
+        "title": "¿Qué es .NET?",
         "url": "https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet",
         "type": "article"
       },
       {
-        "title": "An Overview of .NET",
+        "title": "Una Visión General de .NET",
         "url": "https://auth0.com/blog/what-is-dotnet-platform-overview/",
         "type": "article"
       },
       {
-        "title": "Explore top posts about .NET",
+        "title": "Explora las principales publicaciones sobre .NET",
         "url": "https://app.daily.dev/tags/.net?ref=roadmapsh",
         "type": "article"
       }
