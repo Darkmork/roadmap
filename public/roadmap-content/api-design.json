@@ -1,15 +1,15 @@
 {
   "duKkpzPjUU_-8kyJGHqRX": {
-    "title": "Learn the Basics",
-    "description": "Application Programming Interfaces (APIs) are an integral part of modern development, allowing software applications to communicate and use functions from other software applications or services. API design, therefore, becomes a key part of any software development process. Furthermore, the basics of API design encompass understanding the principles of what an API is, how it works, and the various types of APIs, such as REST, SOAP, and GraphQL. This also includes understanding the standards and best practices in API design to ensure the development of powerful, user-friendly, and secure APIs. The foundation of API Design lies in this knowledge, setting the stage for more complex API designing and development.",
+    "title": "Aprende los Fundamentos",
+    "description": "Las Interfaces de Programación de Aplicaciones (API) son una parte integral del desarrollo moderno, permitiendo que las aplicaciones de software se comuniquen y utilicen funciones de otras aplicaciones o servicios de software. El diseño de API, por lo tanto, se convierte en una parte clave de cualquier proceso de desarrollo de software. Además, los fundamentos del diseño de API abarcan la comprensión de los principios de qué es una API, cómo funciona y los diversos tipos de API, como REST, SOAP y GraphQL. Esto también incluye la comprensión de los estándares y las mejores prácticas en el diseño de API para garantizar el desarrollo de API potentes, fáciles de usar y seguras. La base del diseño de API radica en este conocimiento, sentando las bases para un diseño y desarrollo de API más complejos.",
     "links": []
   },
   "r8M3quACGO2piu0u_R4hO": {
-    "title": "What are APIs",
-    "description": "APIs, or Application Programming Interfaces, provide a manner in which software applications communicate with each other. They abstract the complexity of applications to allow developers to use only the essentials of the software they are working with. They define the methods and data formats an application should use in order to perform tasks, like sending, retrieving, or modifying data. Understanding APIs is integral to mastering modern software development, primarily because they allow applications to exchange data and functionality with ease, thus enabling integration and convergence of technological services. Therefore, a solid understanding of what APIs are forms the basic cornerstone of API design.\n\nVisit the following resources to learn more:",
+    "title": "¿Qué son las API?",
+    "description": "Las API, o Interfaces de Programación de Aplicaciones, proporcionan una forma en que las aplicaciones de software se comunican entre sí. Abstraen la complejidad de las aplicaciones para permitir a los desarrolladores utilizar solo lo esencial del software con el que están trabajando. Definen los métodos y formatos de datos que una aplicación debe utilizar para realizar tareas, como enviar, recuperar o modificar datos. Comprender las API es fundamental para dominar el desarrollo de software moderno, principalmente porque permiten que las aplicaciones intercambien datos y funcionalidades con facilidad, lo que permite la integración y la convergencia de los servicios tecnológicos. Por lo tanto, una sólida comprensión de lo que son las API constituye la piedra angular básica del diseño de API.\n\nVisita los siguientes recursos para obtener más información:",
     "links": [
       {
-        "title": "Getting Started with APIs - Postman",
+        "title": "Primeros Pasos con las API - Postman",
         "url": "https://www.postman.com/what-is-an-api/",
         "type": "article"
       },
@@ -19,12 +19,12 @@
         "type": "article"
       },
       {
-        "title": "What is an API? - AWS",
+        "title": "¿Qué es una API? - AWS",
         "url": "https://aws.amazon.com/what-is/api/",
         "type": "article"
       },
       {
-        "title": "What is an API?",
+        "title": "¿Qué es una API?",
         "url": "https://www.youtube.com/watch?v=s7wmiS2mSXY",
         "type": "video"
       }
@@ -32,30 +32,30 @@
   },
   "2HdKzAIQi15pr3YHHrbPp": {
     "title": "HTTP",
-    "description": "HTTP, or Hypertext Transfer Protocol, is a fundamental piece of any API design. It is the protocol used for transmitting hypermedia data on the web, such as HTML webpages or JSON from a web API. Understanding HTTP is crucial in API design as it provides the structure for how requests and responses should be constructed and handled. It dictates how endpoints are defined, how data should be transferred, and what status codes should be used to convey specific scenarios. A solid grounding in HTTP principles allows for more robust, efficient and secure API designs.\n\nVisit the following resources to learn more:",
+    "description": "HTTP, o Protocolo de Transferencia de Hipertexto, es una pieza fundamental de cualquier diseño de API. Es el protocolo utilizado para transmitir datos de hipermedia en la web, como páginas web HTML o JSON de una API web. Comprender HTTP es crucial en el diseño de API, ya que proporciona la estructura de cómo se deben construir y manejar las solicitudes y respuestas. Dicta cómo se definen los puntos finales, cómo se deben transferir los datos y qué códigos de estado se deben usar para transmitir escenarios específicos. Una base sólida en los principios de HTTP permite diseños de API más robustos, eficientes y seguros.\n\nVisita los siguientes recursos para obtener más información:",
     "links": [
       {
-        "title": "Everything you need to know about HTTP",
+        "title": "Todo lo que necesitas saber sobre HTTP",
         "url": "https://cs.fyi/guide/http-in-depth",
         "type": "article"
       },
       {
-        "title": "What is HTTP?",
+        "title": "¿Qué es HTTP?",
         "url": "https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/",
         "type": "article"
       },
       {
-        "title": "An overview of HTTP",
+        "title": "Una visión general de HTTP",
         "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview",
         "type": "article"
       },
       {
-        "title": "HTTP/3 From A To Z: Core Concepts",
+        "title": "HTTP/3 de la A a la Z: Conceptos Fundamentales",
         "url": "https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/",
         "type": "article"
       },
       {
-        "title": "HTTP Crash Course & Exploration",
+        "title": "Curso Intensivo y Exploración de HTTP",
         "url": "https://www.youtube.com/watch?v=iYM2zFP3Zn0",
         "type": "video"
       }

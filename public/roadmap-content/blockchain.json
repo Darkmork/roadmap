@@ -1,102 +1,102 @@
 {
   "MvpHHpbS-EksUfuOKILOq": {
-    "title": "Basic Blockchain Knowledge",
-    "description": "A blockchain is a decentralized, distributed, and oftentimes public, digital ledger consisting of records called blocks that is used to record transactions across many computers so that any involved block cannot be altered retroactively, without the alteration of all subsequent blocks.\n\nVisit the following resources to learn more:",
+    "title": "Conocimientos Básicos de Blockchain",
+    "description": "Una blockchain es un libro de contabilidad digital descentralizado, distribuido y, a menudo, público, que consta de registros llamados bloques que se utiliza para registrar transacciones en muchas computadoras de modo que cualquier bloque involucrado no pueda modificarse retroactivamente, sin la alteración de todos los bloques posteriores.\n\nVisita los siguientes recursos para obtener más información:",
     "links": [
       {
-        "title": "Introduction to Blockchain",
+        "title": "Introducción a Blockchain",
         "url": "https://chain.link/education-hub/blockchain",
         "type": "article"
       },
       {
-        "title": "Blockchain Explained",
+        "title": "Blockchain Explicado",
         "url": "https://www.investopedia.com/terms/b/blockchain.asp",
         "type": "article"
       },
       {
-        "title": "An Elementary and Slightly Distilled Introduction to Blockchain",
+        "title": "Una Introducción Elemental y Ligeramente Destilada a Blockchain",
         "url": "https://markpetherbridge.co.uk/blog/an-elementary-and-slightly-distilled-introduction-to-blockchain/",
         "type": "article"
       },
       {
-        "title": "Explore top posts about Blockchain",
+        "title": "Explora las principales publicaciones sobre Blockchain",
         "url": "https://app.daily.dev/tags/blockchain?ref=roadmapsh",
         "type": "article"
       },
       {
-        "title": "How does a blockchain work?",
+        "title": "¿Cómo funciona una blockchain?",
         "url": "https://youtu.be/SSo_EIwHSd4",
         "type": "video"
       },
       {
-        "title": "What Is a Blockchain? | Blockchain Basics for Developers",
+        "title": "¿Qué es una Blockchain? | Conceptos Básicos de Blockchain para Desarrolladores",
         "url": "https://youtu.be/4ff9esY_4aU",
         "type": "video"
       }
     ]
   },
   "Atv-4Q7edtvfySs_XhgEq": {
-    "title": "Blockchain Structure",
-    "description": "The blockchain gets its name from its underlying structure. The blockchain is organized as a series of “blocks” that are “chained” together.\n\nUnderstanding blockchain security requires understanding how the blockchain is put together. This requires knowing what the blocks and chains of blockchain are and why they are designed the way that they are.\n\nVisit the following resources to learn more:",
+    "title": "Estructura de Blockchain",
+    "description": "La blockchain recibe su nombre de su estructura subyacente. La blockchain se organiza como una serie de “bloques” que están “encadenados” entre sí.\n\nComprender la seguridad de la blockchain requiere comprender cómo se arma la blockchain. Esto requiere saber qué son los bloques y las cadenas de la blockchain y por qué están diseñados de la manera en que lo están.\n\nVisita los siguientes recursos para obtener más información:",
     "links": [
       {
-        "title": "Blockchain Basics | Coursera",
+        "title": "Conceptos Básicos de Blockchain | Coursera",
         "url": "https://www.coursera.org/lecture/blockchain-basics/blockchain-structure-5rj9Z",
         "type": "course"
       },
       {
-        "title": "Blockchain Architecture Basics: Components, Structure, Benefits & Creation",
+        "title": "Conceptos Básicos de la Arquitectura Blockchain: Componentes, Estructura, Beneficios y Creación",
         "url": "https://mlsdev.com/blog/156-how-to-build-your-own-blockchain-architecture",
         "type": "article"
       },
       {
-        "title": "Blockchain Architecture 101: Components, Structure, and Benefits",
+        "title": "Arquitectura Blockchain 101: Componentes, Estructura y Beneficios",
         "url": "https://komodoplatform.com/en/academy/blockchain-architecture-101/",
         "type": "article"
       },
       {
-        "title": "Blockchain structure",
+        "title": "Estructura de Blockchain",
         "url": "https://resources.infosecinstitute.com/topic/blockchain-structure/",
         "type": "article"
       },
       {
-        "title": "Explore top posts about Blockchain",
+        "title": "Explora las principales publicaciones sobre Blockchain",
         "url": "https://app.daily.dev/tags/blockchain?ref=roadmapsh",
         "type": "article"
       }
     ]
   },
   "9z0Fqn1qqN8eo6s7_kwcb": {
-    "title": "Basic Blockchain Operations",
-    "description": "Operations in a decentralized networks are the responsibility of the peer participants and their respective computational nodes. These are specific for each type of blockchain.\n\nVisit the following resources to learn more:",
+    "title": "Operaciones Básicas de Blockchain",
+    "description": "Las operaciones en redes descentralizadas son responsabilidad de los participantes pares y sus respectivos nodos computacionales. Estas son específicas para cada tipo de blockchain.\n\nVisita los siguientes recursos para obtener más información:",
     "links": [
       {
-        "title": "Blockchain Basics | Coursera",
+        "title": "Conceptos Básicos de Blockchain | Coursera",
         "url": "https://www.coursera.org/lecture/blockchain-basics/basic-operations-OxILB",
         "type": "course"
       },
       {
-        "title": "Blockchain Basics: Structure, Operations, and the Bitcoin Blockchain",
+        "title": "Conceptos Básicos de Blockchain: Estructura, Operaciones y la Blockchain de Bitcoin",
         "url": "https://www.mlq.ai/blockchain-basics/",
         "type": "article"
       },
       {
-        "title": "Bitcoin Blockchain Transactions",
+        "title": "Transacciones de la Blockchain de Bitcoin",
         "url": "https://developer.bitcoin.org/reference/transactions.html",
         "type": "article"
       },
       {
-        "title": "Ethereum Blockchain Transactions",
+        "title": "Transacciones de la Blockchain de Ethereum",
         "url": "https://ethereum.org/en/developers/docs/transactions/",
         "type": "article"
       },
       {
-        "title": "Explore top posts about Blockchain",
+        "title": "Explora las principales publicaciones sobre Blockchain",
         "url": "https://app.daily.dev/tags/blockchain?ref=roadmapsh",
         "type": "article"
       },
       {
-        "title": "How Bitcoin Blockchain Actually",
+        "title": "Cómo Funciona Realmente la Blockchain de Bitcoin",
         "url": "https://www.youtube.com/watch?v=bBC-nXj3Ng4",
         "type": "video"
       }
